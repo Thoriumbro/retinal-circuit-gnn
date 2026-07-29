@@ -46,7 +46,7 @@ retinal-circuit-gnn/
 ## Setup
 
 ```bash
-git clone https://github.com/<Thoriumbro>/retinal-circuit-gnn.git
+git clone https://github.com/Thoriumbro/retinal-circuit-gnn.git
 cd retinal-circuit-gnn
 pip install -r requirements.txt
 ```
